@@ -1,0 +1,68 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Enemy
+  - CanBePickedUp
+  - VirtualCamera
+  - Creature
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Blocking
+  - Consumables
+  - Enemies
+  - Critters
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Ground
+    uniqueID: 1852193037
+    locked: 0
+  - name: Shrubbery
+    uniqueID: 2505183233
+    locked: 0
+  - name: Trees and Rocks
+    uniqueID: 2562391519
+    locked: 0
+  - name: Consumables
+    uniqueID: 3773793485
+    locked: 0
+  - name: Characters
+    uniqueID: 1348872339
+    locked: 0
+  - name: Buildings
+    uniqueID: 2214547927
+    locked: 0
+  - name: Objects
+    uniqueID: 1824267161
+    locked: 0
