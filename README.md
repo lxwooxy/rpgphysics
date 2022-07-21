@@ -1,0 +1,2 @@
+# rpgphysics
+An experimentation of game physics using Unity2D. Pixel art prefabs and animations were made with Photoshop. There's a pixel art roach somewhere in there that I'm proud of - when the player character smacks him, he explodes into green goo. Also there's a large, round black bear that rolls away if you toggle some of his collider settings. On that note, there is no real story or map to the game file - I was just figuring out colliders and other "physical" settings.
